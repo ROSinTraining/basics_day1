@@ -1,4 +1,5 @@
 # basics_day1
+Hello World.
 
 ![CI](https://github.com/ROSinTraining/basics_day1/workflows/CI/badge.svg)
 
